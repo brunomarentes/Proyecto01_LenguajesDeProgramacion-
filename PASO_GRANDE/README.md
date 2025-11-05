@@ -1,3 +1,3 @@
-# MiniLisp - Paso Pequeño 
+# MiniLisp - Paso Grande 
 
-Este intérprete MiniLisp implementa evaluación de **paso pequeño**, en este caso 
+Este intérprete MiniLisp implementa evaluación de **Paso Grande**, en este caso 
